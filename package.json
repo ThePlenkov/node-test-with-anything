@@ -1,0 +1,14 @@
+{
+  "name": "test-with-anything",
+  "version": "1.0.0",
+  "description": "Test with anything",
+  "main": "index.js",
+  "scripts": {
+    "vitest": "node --import ./vitest/import.mjs --test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.0"
+  }
+}
